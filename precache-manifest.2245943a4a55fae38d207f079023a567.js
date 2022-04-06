@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42b337db29208342d9f0",
+    "revision": "3c2e0db78ddbe2de7321",
     "url": "/catfriends/static/css/main.e8eed3d9.chunk.css"
   },
   {
-    "revision": "42b337db29208342d9f0",
-    "url": "/catfriends/static/js/main.3ea5bda5.chunk.js"
+    "revision": "3c2e0db78ddbe2de7321",
+    "url": "/catfriends/static/js/main.bc1f7f76.chunk.js"
   },
   {
     "revision": "66b7e1568d85b12baeb4",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/catfriends/static/media/BRUX-Regular.01b08c6a.ttf"
   },
   {
-    "revision": "7a8a3e7d9275b19dac622ed6f7930f68",
+    "revision": "8032506d9aea9f57f282c64f31baa5df",
     "url": "/catfriends/index.html"
   }
 ];
